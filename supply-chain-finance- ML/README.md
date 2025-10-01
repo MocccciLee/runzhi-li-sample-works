@@ -31,7 +31,7 @@ This project is **not fully reproducible**:
 ../data/processed/最终数据_供应链金融成功分析结果.xlsx
 ---
 
-## 📊 Outputs
+## Outputs
 Final figures are in `outputs/figures/` with English file names.
 
 ---
