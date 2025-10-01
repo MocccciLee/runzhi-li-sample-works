@@ -28,3 +28,18 @@ This project is **not fully reproducible**:
 **What can run now**
 - In `05_ml-core.ipynb` I switched the data path to a **relative path**.  
   If you open the notebook from `code/`, it will load:
+../data/processed/最终数据_供应链金融成功分析结果.xlsx
+---
+
+## 📊 Outputs
+Final figures are in `outputs/figures/` with English file names.
+
+---
+
+## Purpose
+Analyze whether and where SCF is likely to be effective by combining text-based SCF activity measures with firm-level indicators, and benchmark models (LogReg, Tree, RandomForest, SVM, Boosting, XGBoost). We favor **Random Forest** for its balance of performance, simplicity, and interpretability.
+
+---
+
+## Author
+Runzhi Li
